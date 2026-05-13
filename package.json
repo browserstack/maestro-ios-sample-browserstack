@@ -1,0 +1,6 @@
+{
+  "name": "maestro-ios-sample-browserstack",
+  "version": "1.0.0",
+  "description": "BrowserStack Maestro iOS sample app",
+  "dependencies": {}
+}
